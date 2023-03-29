@@ -1,10 +1,8 @@
 package main
 
 func isSameTree(p *TreeNode, q *TreeNode) bool {
-	if p == nil && q == nil {
-		return true
-	} else if p == nil && q != nil || p != nil && q == nil {
-		return false
+	if p == nil || q == nil {
+		return p == q
 	} else if p.Val != q.Val {
 		return false
 	}
