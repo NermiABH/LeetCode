@@ -2,23 +2,14 @@ package main
 
 import (
 	"fmt"
-	"slices"
 )
 
 func missingNumber(nums []int) int {
-	if len(nums) == 0 || len(nums) == 1 {
-		return nums[0] ^ 1
+	sum := len(nums) * (len(nums) + 1) / 2
+	for _, num := range nums {
+		sum -= num
 	}
-	slices.Sort(nums)
-	if nums[0] != 0 {
-		return 0
-	}
-	for i := 0; i < len(nums)-1; i++ {
-		if (nums[i]&1)^(nums[i+1]&1) == 0 {
-			return nums[i] + 1
-		}
-	}
-	return nums[len(nums)-1] + 1
+	return sum
 }
 
 func main() {
