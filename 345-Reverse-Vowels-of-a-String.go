@@ -13,7 +13,7 @@ func reverseVowels(s string) string {
 		i++
 		j--
 	}
-	return string(b)
+	return *(*string)(unsafe.Pointer(&b))
 }
 
 func isVowel(c byte) bool {
