@@ -6,7 +6,12 @@ func maxOperations(nums []int, k int) int {
 			n[v]++
 		} else {
 			out++
-			n[diff]--
+            if count == 1{
+                delete(n, diff)
+            }else {
+                n[diff]--
+            }
+			
 		}
 	}
 	return out
