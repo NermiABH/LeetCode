@@ -1,35 +1,25 @@
 func closeStrings(word1 string, word2 string) bool {
-    if len(word1) != len(word2) {
-        return false
+	if len(word1) != len(word2) {
+		return false
+	}
+	chars1, chars2 := [26]int{}, [26]int{}
+	for i := range word1 {
+		chars1[word1[i]-'a']++
+        chars2[word2[i]-'a']++
+	}
+    n := make(map[int]int, 26)
+	for i := range chars1{
+        if (chars1[i] > 0 && chars2[i] == 0) || (chars1[i] == 0 && chars2[i] > 0){
+            return false
+        }else if chars1[i] > 0 && chars2[i] > 0 {
+            n[chars1[i]]++
+            n[chars2[i]]--
+        }
     }
-    c1 := make(map[byte]int, len(word1))
-    for i := 0; i < len(word1); i++ {
-        c1[word1[i]]++ 
-    }
-    c2 := make(map[byte]int, len(word2))
-    for i := 0; i < len(word2); i++ {
-        c2[word2[i]]++ 
-    }
-    for k := range c2 {
-        if _, ok := c1[k]; !ok {
+    for _, v := range n {
+        if v != 0 {
             return false
         }
     }
-    for k := range c1 {
-        if _, ok := c2[k]; !ok {
-            return false
-        }
-    }
-    c1Exist := make(map[int]int, len(c1))
-    for _, v := range c1{
-        c1Exist[v]++
-    }
-    for _, v := range c2{
-        if k := c1Exist[v]; k == 0 {
-            return false
-        }else {
-            c1Exist[v]--
-        }
-    }
-    return true
+	return true
 }
