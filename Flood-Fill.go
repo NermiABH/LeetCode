@@ -8,17 +8,15 @@ func floodFill(image [][]int, sr int, sc int, color int) [][]int {
     if oldColor == color {
         return image
     }
-
     m, n := len(image), len(image[0])
     head := &Node{i: sr, j: sc, next: nil}
-
     for head != nil {
         i, j := head.i, head.j
         head = head.next
         if image[i][j] != oldColor {
             continue
         }
-
+        
         image[i][j] = color
 
         if i-1 >= 0 && image[i-1][j] == oldColor {
@@ -34,6 +32,5 @@ func floodFill(image [][]int, sr int, sc int, color int) [][]int {
             head = &Node{i: i, j: j + 1, next: head}
         }
     }
-
     return image
 }
