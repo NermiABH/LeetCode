@@ -1,4 +1,7 @@
 func canConstruct(ransomNote string, magazine string) bool {
+    if len(ransomNote) > len(magazine) {
+        return false
+    }
 	var note [26]int
     length := len(ransomNote)
     for i := range ransomNote {
