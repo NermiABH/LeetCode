@@ -20,4 +20,17 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0136-single-number](https://github.com/NermiABH/LeetCode/tree/master/0136-single-number) |
+| [2352-equal-row-and-column-pairs](https://github.com/NermiABH/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/NermiABH/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/NermiABH/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/NermiABH/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
