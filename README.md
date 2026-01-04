@@ -14,5 +14,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/NermiABH/LeetCode/tree/master/0136-single-number) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/NermiABH/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/NermiABH/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
