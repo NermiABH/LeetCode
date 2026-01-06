@@ -1,7 +1,7 @@
 import "strings"; 
 
 func removeStars(s string) string {
-    r := make([]byte, 0)
+    r := make([]byte, 0, len(s))
 
     for i := range s {
         b := s[i]
