@@ -1,7 +1,7 @@
 import "strings"; 
 
 func removeStars(s string) string {
-    r := make([]rune, 0, len(s))
+    r := make([]rune, 0)
 
     for _, v := range s {
         if v == '*'{
