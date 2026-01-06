@@ -17,7 +17,7 @@ func oddEvenList(head *ListNode) *ListNode {
             l1.Next = l1.Next.Next
             l1 = l1.Next
         }else {
-            l2.Next = nil
+            l1.Next = nil
         }
 
         if l2.Next != nil && l2.Next.Next != nil {
