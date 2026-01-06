@@ -33,4 +33,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/NermiABH/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/NermiABH/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/NermiABH/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/NermiABH/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
