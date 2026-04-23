@@ -24,6 +24,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/NermiABH/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [2352-equal-row-and-column-pairs](https://github.com/NermiABH/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Matrix
 |  |
@@ -37,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/NermiABH/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [2390-removing-stars-from-a-string](https://github.com/NermiABH/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -51,4 +53,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NermiABH/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/NermiABH/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/NermiABH/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
