@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0136-single-number](https://github.com/NermiABH/LeetCode/tree/master/0136-single-number) |
+| [0735-asteroid-collision](https://github.com/NermiABH/LeetCode/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/NermiABH/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/NermiABH/LeetCode/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/NermiABH/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/NermiABH/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## String
@@ -43,6 +45,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/NermiABH/LeetCode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/NermiABH/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
