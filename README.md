@@ -72,6 +72,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/NermiABH/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/NermiABH/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/NermiABH/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/NermiABH/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Queue
 |  |
 | ------- |
@@ -88,4 +90,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/NermiABH/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Depth-First Search
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/NermiABH/LeetCode/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
