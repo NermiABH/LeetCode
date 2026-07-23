@@ -99,4 +99,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/NermiABH/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/NermiABH/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/NermiABH/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/NermiABH/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
