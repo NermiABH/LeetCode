@@ -76,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search Tree
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/NermiABH/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0700-search-in-a-binary-search-tree](https://github.com/NermiABH/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -94,4 +95,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0872-leaf-similar-trees](https://github.com/NermiABH/LeetCode/tree/master/0872-leaf-similar-trees) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/NermiABH/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
