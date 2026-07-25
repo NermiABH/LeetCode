@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0136-single-number](https://github.com/NermiABH/LeetCode/tree/master/0136-single-number) |
 | [0735-asteroid-collision](https://github.com/NermiABH/LeetCode/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/NermiABH/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/NermiABH/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/NermiABH/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/NermiABH/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
